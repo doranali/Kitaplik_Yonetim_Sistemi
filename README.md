@@ -1,2 +1,2 @@
-# Kitapl-k_Y-netim_Sistemi
+# Kitaplik_Yonetim_Sistemi
 Windows Forms İle Basit Arayüzlü Kitaplık Yönetim Sistemi
